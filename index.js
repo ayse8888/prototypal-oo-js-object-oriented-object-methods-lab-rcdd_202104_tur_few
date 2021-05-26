@@ -13,3 +13,5 @@ function BoardMember(name, homeState, training) {
  
 let boardMember = new BoardMember('Mr. Polished', 'New York', 'law');
 boardMember.sayHi(); 
+
+
